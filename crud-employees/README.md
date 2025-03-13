@@ -9,3 +9,5 @@ A simple CRUD (Create, Read, Update, Delete) application for managing employee r
 - **Update**: Modify the details of existing employee records.
 - **Delete**: Remove employee records from the system.
 - **Search**: Search for specific employee records based on various criteria.
+
+![image](https://github.com/user-attachments/assets/73344da3-bb04-4bba-975e-0b35cf2e28e5)
