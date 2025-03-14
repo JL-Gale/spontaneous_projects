@@ -21,3 +21,15 @@ This project is a simple implementation of CRUD (Create, Read, Update, Delete) o
 
 - The database handles the generation of the ID and the recording of the current date during the creation of an entry.
 - The user is only prompted for additional information (ID and date) during update and delete operations.
+
+  ![image](https://github.com/user-attachments/assets/6af84c6f-f9f5-4941-97c0-09c91a06ceef)
+  
+  ![image](https://github.com/user-attachments/assets/3ae0e6ce-0e4c-418f-95df-e2e36b813488)
+
+  ![image](https://github.com/user-attachments/assets/76b6b9b3-7d2c-439a-8a66-a60a05c033a9)
+
+  ![image](https://github.com/user-attachments/assets/ed85cd11-974c-4015-8912-3de132b95c83)
+
+  ![image](https://github.com/user-attachments/assets/ef6644f9-a6b4-44e8-86df-b23c0d1b5d5c)
+
+
